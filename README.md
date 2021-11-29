@@ -10,7 +10,7 @@ I've used the npm module inquirer.js, to restrict users from giving invalid inpu
 
 `npm install`
 
-5. Go to config.js File and change the subdomain, username & password as token (Optional)
+5. Go to config.js File and change the subdomain, username & password (Optional)
 
 6. Run the following command to run the application
 

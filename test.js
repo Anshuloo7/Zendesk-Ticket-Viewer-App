@@ -30,10 +30,14 @@ it("showTicket works for a valid ticket id", function () {
 
 
 //Test3: Testing the working of listTickets function
-it("list Ticket should work", function () {
+it("listTickets should work", function () {
     assert(action.listTickets());
 });
 
+//Test4: Testing the nextPage lists the tickets for next page
+it("nextPage should listTickets", function() {
+    assert(action.nextPage());
+});
 
 
 

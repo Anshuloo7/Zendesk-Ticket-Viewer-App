@@ -9,6 +9,7 @@ I've used the npm module inquirer.js, to restrict users from giving invalid inpu
 4. Run the following command, to install node modules/dependencies locally
 
 `npm install`
+
 5. Go to config.js File and change the subdomain, username & password as token (Optional)
 
 6. Run the following command to run the application
